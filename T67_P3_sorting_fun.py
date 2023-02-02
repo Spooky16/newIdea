@@ -1,4 +1,4 @@
-#T67 Grant Phillips 101230563 , Aidan Karst 101239769 , Mikhali Shahid 101232932 , Pongwit Phutragulpant 101224008 2022/04/10 Version 1.0
+#T67 Grant Phillips
 from T67_P5_load_data import book_category_dictionary
 #from T76_check_equal import check_equal
 #The 8 Functions
