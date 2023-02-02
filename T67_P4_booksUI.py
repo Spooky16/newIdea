@@ -1,4 +1,4 @@
-#T67 Grant Phillips 101230563 , Aidan Karst 101239769 , Mikhali Shahid 101232932 , Pongwit Phutragulpant 101224008 2022/04/10 Version 1.0
+#T67 Grant Phillips 
 import string
 from T67_P3_sorting_fun import sort_books_title
 from T67_P3_sorting_fun import sort_books_author
