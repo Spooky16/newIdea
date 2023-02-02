@@ -1,5 +1,5 @@
 #Written by Grant Phillips 101230563
-#Reviewed by Aidan Karst 101239769 , Mikhali Shahid 101232932 , Pongwit Phutragulpant 101224008 2022/04/10 Version 1.0
+
 def book_category_dictionary(filename: str) -> dict:
     ''' Function Takes in a filename, returns a dictionary with the keys as the catagories from the file, and the values as lists of dictionaries for all the individual books
     >>>len(book_category_dictionary(google_books_dataset.csv))   ** Note: Was unsure how to test file, TA in discord said to display the length
